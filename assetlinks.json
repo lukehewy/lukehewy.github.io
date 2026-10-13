@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lukehewy.twa",
+        "sha256_cert_fingerprints": ["64:CF:97:88:59:2B:1F:55:E3:E6:BB:14:37:A3:CB:06:82:7B:AA:D3:4B:2A:D9:C6:CA:8B:0B:6E:B6:80:DC:33"]
+      }
+    }]
